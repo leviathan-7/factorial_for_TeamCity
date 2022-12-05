@@ -6,7 +6,7 @@ namespace factorial
     {
         static void Main(string[] args)
         {
-            int a = Convert.ToInt32(Console.ReadLine());
+            int a = Convert.ToInt32(Console.ReadLine())
             Console.WriteLine("factorial = " + factorial(a));
         }
         static int factorial(int a)

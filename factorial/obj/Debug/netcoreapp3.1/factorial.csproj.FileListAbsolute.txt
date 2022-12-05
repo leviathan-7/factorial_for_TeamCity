@@ -11,3 +11,9 @@ C:\Users\1\source\repos\factorial\factorial\obj\Debug\netcoreapp3.1\factorial.cs
 C:\Users\1\source\repos\factorial\factorial\obj\Debug\netcoreapp3.1\factorial.dll
 C:\Users\1\source\repos\factorial\factorial\obj\Debug\netcoreapp3.1\factorial.pdb
 C:\Users\1\source\repos\factorial\factorial\obj\Debug\netcoreapp3.1\factorial.genruntimeconfig.cache
+C:\Users\1\Desktop\factorial_for_TeamCity\factorial\obj\Debug\netcoreapp3.1\factorial.csprojAssemblyReference.cache
+C:\Users\1\Desktop\factorial_for_TeamCity\factorial\obj\Debug\netcoreapp3.1\factorial.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\factorial_for_TeamCity\factorial\obj\Debug\netcoreapp3.1\factorial.AssemblyInfo.cs
+C:\Users\1\Desktop\factorial_for_TeamCity\factorial\obj\Debug\netcoreapp3.1\factorial.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\factorial_for_TeamCity\factorial\obj\Debug\netcoreapp3.1\factorial.dll
+C:\Users\1\Desktop\factorial_for_TeamCity\factorial\obj\Debug\netcoreapp3.1\factorial.pdb
